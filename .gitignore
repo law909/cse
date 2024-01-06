@@ -1,0 +1,5 @@
+/.env
+/.idea/
+/tpl/compiled/
+/vendor/
+/storage/
